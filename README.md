@@ -15,3 +15,6 @@ First, follow these instructions to set up and run a local Ollama instance:\
 if above command does not work try 
 
    #python -m streamlit run <filename.py>
+
+
+![image](https://github.com/harilakshman-333/RAG_chatbot_Ollama_websitelinks/assets/60462869/6c06e452-6698-4242-98bb-5fa6fde62965)
